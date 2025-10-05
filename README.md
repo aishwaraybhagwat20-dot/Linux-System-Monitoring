@@ -40,3 +40,41 @@ Run the initial tests:
 python -m unittest discover tests/
 
 ## Project Structure
+resource-monitoring/
+├── README.md
+├── requirements.txt
+├── .gitignore
+├── app.py
+├── run.py
+├── config.py
+├── monitors/
+│ ├── init.py
+│ └── system_monitor.py
+├── templates/
+│ ├── base.html
+│ └── index.html
+├── static/
+│ └── ...
+├── api/
+│ ├── init.py
+│ └── routes.py
+└── tests/
+└── test_basic.py
+
+text
+
+## Contribution
+- Create feature branches
+- Push code regularly
+- Open pull requests for review
+- Follow coding standards
+  
+## License
+This project is licensed under MIT License.
+
+## Support
+- Submit issues for bugs or enhancements
+- Contact the team via GitHub discussions
+
+---
+**End of setup instructions.**
