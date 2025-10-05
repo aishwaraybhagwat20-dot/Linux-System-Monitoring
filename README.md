@@ -61,8 +61,6 @@ resource-monitoring/
 └── tests/
 └── test_basic.py
 
-text
-
 ## Contribution
 - Create feature branches
 - Push code regularly
