@@ -1,0 +1,10 @@
+psutil==5.9.0
+rich==13.5.2
+loguru==0.7.0
+APScheduler==3.10.4
+streamlit==1.25.0
+dash==2.14.1
+pandas==2.0.3
+plotly==5.15.0
+pytest==7.4.0
+pytest-cov==4.1.0
