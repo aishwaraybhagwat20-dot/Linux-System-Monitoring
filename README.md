@@ -14,3 +14,5 @@ A simple, real-time web dashboard to monitor system resources (CPU, RAM, Disk, N
 ## Setup Instructions
 
 ### Clone the Repository
+git clone https://github.com/your-username/resource-monitoring.git
+cd resource-monitoring
