@@ -43,7 +43,7 @@ interval_minutes: Export interval in minutes
 """
 # TODO: Implement data export scheduling
 print(f"Will schedule data export every {interval_minutes} minutes")
-if __name__ == "__main__":
+if _name_ == "_main_":
 print("Testing scheduler module...")
 scheduler = start_scheduler()
 print("Scheduler started. Press Ctrl+C to stop.")
